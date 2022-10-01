@@ -66,26 +66,26 @@ This QQ group only talks about Mi Account access issues. In order to manage the 
 
 #### 5.1 Beginner's guide
 
-- [SDK download](sdk.html)
+- [SDK download](sdk.md)
 - [Xiaomi logo download](file/mi_logo.zip)
-- [Contextual Sign-in with Mi Account](contextual-login.html)
+- [Contextual Sign-in with Mi Account](contextual-login.md)
 
 #### 5.2 Grant permissions API
 
-- [Authorization code grant type](authorization-code.html)
-- [Implicit grant type](implicit.html)
-- [Refresh access token](refresh-access-token.html)
+- [Authorization code grant type](authorization-code.md)
+- [Implicit grant type](implicit.md)
+- [Refresh access token](refresh-access-token.md)
 
 #### 5.3 Open API
 
-- [Account open data API](open-api.html)
+- [Account open data API](open-api.md)
 
 #### 5.4 Others
 
-- [Scope list](scope-list.html)
-- [Error code list](error-code.html)
-- [Token lift cycle](token-life-cycle.html)
-- [MAC Signature Verification](mac-signature-verification.html)
+- [Scope list](scope-list.md)
+- [Error code list](error-code.md)
+- [Token lift cycle](token-life-cycle.md)
+- [MAC Signature Verification](mac-signature-verification.md)
 - [FAQs](faq.md)
 
 If you have any problem, you can contact with us by email: [xiaomi-account-dev@xiaomi.com](mailto://xiaomi-account-dev@xiaomi.com).
